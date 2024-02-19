@@ -1,6 +1,6 @@
 ### Hi there 👋, i am Sumon Ahmed
 #### I am Frontend Developer
-![I am Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Frontend Developer](https://media.licdn.com/dms/image/D4D16AQF2QbyaF80Kog/profile-displaybackgroundimage-shrink_350_1400/0/1708334093275?e=1714003200&v=beta&t=dXHX-XyTaYDo7-se8DEaWQ8t5MqeYlP2UiwOJGpEliY)
 
 Experienced frontend developer proficient in HTML, CSS, and JavaScript, with a passion for crafting user-centric web experiences. Skilled in responsive design, cross-browser compatibility, and modern frameworks such as React.js. Proven ability to collaborate effectively in agile environments, translating design concepts into intuitive interfaces that enhance usability and accessibility. Strong attention to detail, with a focus on clean, maintainable code and continuous learning to stay updated with the latest industry trends and best practices. Dedicated to delivering high-quality solutions that exceed client expectations and drive business growth.
 
